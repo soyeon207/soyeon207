@@ -1,6 +1,6 @@
 <div align=center>
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&fontSize=30&animation=twinkling&text=안녕하세요%20백엔드%20개발자%20박소연입니다%20🙋‍♀️)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&fontSize=30&animation=twinkling&text=🙋‍♀️)
 <!-- 
  [![soyeon207's github activity graph](https://activity-graph.herokuapp.com/graph?username=soyeon207&theme=monokai)](https://github.com/soyeon207/github-readme-activity-graph)
    -->
