@@ -18,45 +18,45 @@
     }
     .typing-1 {
       opacity: 0;
-      animation: fade-in-out 1.5s;
+      animation: fade-in-out 0.3s;
     }
     .msg-1 {
-      animation: wait 1.7s, msg-1 0.2s 1.7s;
+      animation: wait 0.5s, msg-1 0.2s 0.5s;
     }
     .typing-2 {
       opacity: 0;
-      animation: wait 2.5s, fade-in-out 1.5s 2.5s;
+      animation: wait 1.5s, fade-in-out 0.5s 1.5s;
     }
     .msg-2 {
-      animation: wait 4.2s, msg-2 0.2s 4.2s;
+      animation: wait 2s, msg-2 0.2s 2s;
     }
     .typing-3 {
       opacity: 0;
-      animation: wait 5s, fade-in-out 1.5s 5s;
+      animation: wait 3s, fade-in-out 0.5s 3s;
     }
     .msg-3 {
-      animation: wait 6.7s, msg-3 0.2s 6.7s;
+      animation: wait 3.5s, msg-3 0.2s 3.5s;
     }
     .typing-4 {
       opacity: 0;
-      animation: wait 7.5s, fade-in-out 1.5s 7.5s;
+      animation: wait 4.5s, fade-in-out 0.5s 4.5s;
     }
     .msg-4 {
-      animation: wait 9.2s, msg-4 0.2s 9.2s;
+      animation: wait 5s, msg-4 0.2s 5s;
     }
     .typing-5 {
       opacity: 0;
-      animation: wait 10s, fade-in-out 1.5s 10s;
+      animation: wait 6s, fade-in-out 0.5s 6s;
     }
     .msg-5 {
-      animation: wait 11.7s, msg-5 0.2s 11.7s;
+      animation: wait 6.5s, msg-5 0.2s 6.5s;
     }
     .typing-6 {
       opacity: 0;
-      animation: wait 12.5s, fade-in-out 1.5s 12.5s;
+      animation: wait 7.5s, fade-in-out 0.5s 7.5s;
     }
     .msg-6 {
-      animation: wait 14.2s, msg-6 0.2s 14.2s;
+      animation: wait 8s, msg-6 0.2s 8s;
     }
     @keyframes wait {
       0%,
