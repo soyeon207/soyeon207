@@ -6,7 +6,11 @@
 <!-- 
  [![soyeon207's github activity graph](https://activity-graph.herokuapp.com/graph?username=soyeon207&theme=monokai)](https://github.com/soyeon207/github-readme-activity-graph)
    -->
+
+<!-- 메시지 형식의 자기소개 --> 
 ![https://github.com/soyeon207/soyeon207/blob/main/chat.svg](https://github.com/soyeon207/soyeon207/blob/main/chat.svg)
+
+<!-- 테크 스택 --> 
 <!-- ### ⚙️ Tech Stack 
   <img src="https://img.shields.io/badge/Ruby on Rails-CC0000?style=flat-square&logo=Ruby on Rails&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white"/>
@@ -25,14 +29,12 @@
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="43" style="width: 43px; height: 43px; margin-right: 48px; margin-bottom: 0px;" />
 <br><br> -->
   
-<a href="https://github.com/soyeon207"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoyeon207&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> <a href="https://solved.ac/whkakrkr">
+<!-- 백준 Solved.ac 프로필 -->
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=qkrthdus207)](https://solved.ac/qkrthdus207)
+
+<!-- 깃허브 방문자 수 -->
+<a href="https://github.com/soyeon207"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoyeon207&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> 
     
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyeon207&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- -->
-    
-<!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=soyeon207)](https://velog.io/@soyeon207)
- -->
-   
     
 </div>
 
