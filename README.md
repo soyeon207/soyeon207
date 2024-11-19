@@ -28,14 +28,19 @@
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="43" style="width: 43px; height: 43px;" />
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="43" style="width: 43px; height: 43px; margin-right: 48px; margin-bottom: 0px;" />
 <br><br> -->
-  
+
+<!-- GitAnimals -->
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/soyeon207?pet-id=646583678337797180"
+    width="600"
+    height="120"
+  />
+</a>
+
 <!-- 백준 Solved.ac 프로필 -->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=soyeon207)](https://solved.ac/soyeon207)
 
 <!-- 깃허브 방문자 수 -->
 <a href="https://github.com/soyeon207"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoyeon207&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> 
-    
-    
 </div>
-
-
